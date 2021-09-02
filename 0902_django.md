@@ -89,6 +89,10 @@ auto_now -> updated_at
 
 
 
+### CRUD
+
+* 생성 읽기 갱신 삭제
+
 
 
 
